@@ -9,7 +9,7 @@
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 		<hibernate.version>5.2.11.Final</hibernate.version>
 		<hsqldb.version>1.8.0.10</hsqldb.version>
-		<c3p0.version>0.9.5.2</c3p0.version>
+		<c3p0.version>0.9.5.3</c3p0.version>
 	</properties>
 	<dependencies>
 		
